@@ -1,0 +1,8 @@
+bonjour 
+la livraison contient 
+- le dossier source java à partir de l'éclipse 
+-jdk6
+-junit4
+sachant que j'ai utilisé le serveur apache v7.6 et aussi j'ai utilisé le java6 parce que 
+c'est l'environnement qu 'il est déjà installé sur ma machine
+Merci et bonne début de semaine
